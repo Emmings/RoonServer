@@ -5,7 +5,7 @@ FROM debian:jessie
 
 # Based upon RonCH's Dockerfile from https://community.roonlabs.com/t/roon-running-in-docker-on-synology/9979
 # and instructions from http://kb.roonlabs.com/LinuxInstall
-MAINTAINER mike@mikedickey.com
+MAINTAINER info@gixxer750.plus.com
 
 # Location of Roon's latest Linux installer
 ENV ROON_INSTALLER roonserver-installer-linuxx64.sh
